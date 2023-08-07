@@ -7,7 +7,7 @@ Hosted in Netlify -> [HeroGadget](https://herogadget.netlify.app/)
 
 
 ## Starter Template
-Github Repo -> [heroGadget-starter](https://github.com/shakilahmedatik/heroGadget-starter)
+Github Repo -> [heroGadget-starter](https://github.com/Ferdousnayeem/heroGadget)
 
 
 ## React Router Dom v6.4 
